@@ -1,1 +1,19 @@
-<Solution />
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Ilon.Api/Ilon.Api.csproj" />
+    <Project Path="src/Ilon.Backoffice/Ilon.Backoffice.csproj" />
+    <Project Path="src/Ilon.BuildingBlocks/Ilon.BuildingBlocks.csproj" />
+    <Project Path="src/Ilon.Mobile/Ilon.Mobile.csproj" />
+    <Project Path="src/Ilon.Modules.Identity/Ilon.Modules.Identity.csproj" />
+    <Project Path="src/Ilon.Modules.Listings/Ilon.Modules.Listings.csproj" />
+    <Project Path="src/Ilon.Modules.Messaging/Ilon.Modules.Messaging.csproj" />
+    <Project Path="src/Ilon.Modules.Moderation/Ilon.Modules.Moderation.csproj" />
+    <Project Path="src/Ilon.Modules.Payments/Ilon.Modules.Payments.csproj" />
+    <Project Path="src/Ilon.Modules.Requests/Ilon.Modules.Requests.csproj" />
+    <Project Path="src/Ilon.Modules.Search/Ilon.Modules.Search.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Ilon.Api.Tests/Ilon.Api.Tests.csproj" />
+    <Project Path="tests/Ilon.Modules.Identity.Tests/Ilon.Modules.Identity.Tests.csproj" />
+  </Folder>
+</Solution>
